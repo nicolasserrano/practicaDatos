@@ -34,6 +34,7 @@ Instrucciones para las practicas:
 - [practica visualizacion4](practicas/visualizacion4)
 
 # Ejemplos de orígenes de datos
+- [Kaggle](https://www.kaggle.com/datasets)
 - [Datos abiertos Donostia](https://www.donostia.eus/datosabiertos/)
 - [Open Data Euskadi](http://opendata.euskadi.eus/inicio/)
 - [Open data initiative of the Government of Spain](http://datos.gob.es/en)
