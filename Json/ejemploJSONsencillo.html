@@ -10,15 +10,12 @@
 
 var text = 
 
-'{"name":"sofia","age":"function() {return 30;}","pets":[ { "animal":"dog", "name":"Fido" },{ "animal":"cat", "name":"Felix" }, { "animal":"hamster", "name":"Lightning" }]}';
+'{"name":"sofia","age":"30","pets":[ { "animal":"dog", "name":"Fido" },{ "animal":"cat", "name":"Felix" }, { "animal":"hamster", "name":"Lightning" }]}';
 
 
 var obj = JSON.parse(text);
 
-obj.age = eval("(" + obj.age + ")");
-
-
-txt = obj.name + ", " + obj.age() + ", " + obj.pets[0].animal+ ", " + obj.pets[0].name ;
+txt = obj.name + ", " + obj.age + ", " + obj.pets[0].animal+ ", " + obj.pets[0].name ;
 
 document.getElementById("demo").innerHTML = txt
 
