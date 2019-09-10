@@ -19,8 +19,7 @@ porque confunde las comas de los decimales por comas de separación. Este proble
 ![List of categories](../fotos/fotos/Capture%20csv2.PNG)
 - Elegir el formato de datos de la columna, en este caso General
 ![List of categories](../fotos/fotos/Capture%20csv%203.PNG)
-- Comprobar que los datos se ven igual que en la imagen
-![List of categories](../fotos/fotos/Capture%201.PNG)
+- Comprobar que los datos se han separado en dos columnas (en este caso no nos importa que sobreescriba los datos antiguos de la siguiente columna)
 
 Este procedimiento no permite seleccionar varias columnas a la vez. Si al realizarlo todavía existe alguna columna donde la 
 información no esté correctamente separada se puede seleccionar esa columna y saltar el proceso pulsando Finish, siempre y 
