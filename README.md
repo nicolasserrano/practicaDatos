@@ -22,6 +22,7 @@ Instrucciones para las practicas:
 - [practica xml1](practicas/xml1)
 - [practica xml2](practicas/xml2)
 - [practica rss](practicas/rss)
+- [practica json0](practicas/json0)
 - [practica json1](practicas/json1)
 - [practica json2](practicas/json2)
 - [practica api](practicas/api)
