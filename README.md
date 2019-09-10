@@ -9,7 +9,7 @@
 
 ## Visualización
 - [Tipos de gráficos (INE)](https://www.ine.es/explica/docs/pasos_tipos_graficos.pdf)
-- [Tipos de gráficos de Dan Roam (codex)](http://www.danroam.com/assets/pdf/tools/TBOTN_codex.pdf)
+- [Tipos de gráficos de Dan Roam (codex)](https://digitalroam.typepad.com/digital_roam/2008/07/napkin-tools-no.html) - [old](http://www.danroam.com/assets/pdf/tools/TBOTN_codex.pdf)
 
 # Practicas Datos
 
