@@ -19,6 +19,7 @@ Instrucciones para las practicas:
 - [practica csv2](practicas/csv2)
 - [practica csv3](practicas/csv3)
 - [practica csv4](practicas/csv4)
+- [practica xml0](practicas/xml0)
 - [practica xml1](practicas/xml1)
 - [practica xml2](practicas/xml2)
 - [practica rss](practicas/rss)
