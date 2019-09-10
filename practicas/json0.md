@@ -38,7 +38,7 @@ Y crear el objeto a partir de la variable texto con:
 > obj2 = JSON.parse(objText)
 
 Se proporcionan todos los comandos unidos a continuación:
-<textarea>
+```
 obj={}
 obj.name = "sofia"
 obj.age = 30
@@ -54,4 +54,6 @@ obj
 JSON.stringify(obj)
 objText = JSON.stringify(obj)
 obj2 = JSON.parse(objText)
-</textarea>
+
+```
+
