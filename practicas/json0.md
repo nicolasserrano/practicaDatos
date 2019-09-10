@@ -14,7 +14,7 @@ Añadir los atributos name y age con los siguientes valores:
 Añadir un nuevo atributo pets que va a contener un array.
     obj.pets = []
 
-Se van a añadir 3 elementos a dicho array. Cada elemento es un objeto, por lo que los creamos:
+Se van a añadir 3 elementos a dicho array. Cada elemento es un objeto, por lo que los creamos:  
     obj.pets[0] = {}
     obj.pets[0].animal = "dog"
     obj.pets[0].name = "Fido"
