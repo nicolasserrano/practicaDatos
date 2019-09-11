@@ -7,6 +7,8 @@ En un editor de textos (por ejemplo Noepad++) teclear el siguiente contenido:
     <CATALOG>contenido del catalogo</CATALOG>
     
 Guardar con la extensión xml, por ejemplo catalogo.xml
+
+Abrir el fichero en el navegador Chrome (por ejemplo: arrastrando el fichero desde el explorador de ficheros al navegador)
     
 Reemplazar el texto "contenido del catalogo" por
     
